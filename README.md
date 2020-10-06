@@ -31,9 +31,9 @@ A travers l’étude de données que j’ai effectuée j’ai souhaité mettre e
 
 # Appercu d'execution
 
-![img1](https://github.com/AntoineMOREAU1/Data-Viz_Python/blob/master/img_read_me/graphe.png)
+![img1](https://github.com/AntoineMOREAU1/Data-Viz-Python/blob/master/img_read_me/graphe.png)
 
-![img2](https://github.com/AntoineMOREAU1/Data-Viz_Python/blob/master/img_read_me/histo.png)
+![img2](https://github.com/AntoineMOREAU1/Data-Viz-Python/blob/master/img_read_me/histo.png)
 
-![img3](https://github.com/AntoineMOREAU1/Data-Viz_Python/blob/master/img_read_me/carte.png)
+![img3](https://github.com/AntoineMOREAU1/Data-Viz-Python/blob/master/img_read_me/carte.png)
 
