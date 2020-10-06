@@ -36,3 +36,4 @@ A travers l’étude de données que j’ai effectuée j’ai souhaité mettre e
 ![img2](https://github.com/AntoineMOREAU1/Data-Viz_Python/blob/master/img_read_me/histo.png)
 
 ![img3](https://github.com/AntoineMOREAU1/Data-Viz_Python/blob/master/img_read_me/carte.png)
+
